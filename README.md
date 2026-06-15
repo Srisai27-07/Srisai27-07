@@ -1,6 +1,7 @@
 ##Hey, I am Srisai.
-- An Computer Engineering student, currently learning about GITHUB and various Programming Languages.
-- Excited for this...
+
+An Computer Engineering student, currently learning about GITHUB and various Programming Languages.
+Excited for this...
 
 ##WORKING ON:
 - Git and GitHub basics

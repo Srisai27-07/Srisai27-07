@@ -9,6 +9,6 @@ Excited for this...
 - Building my portfolio
 
 ##CURRENT GOALS:
-1.Learn GITHUB.
-2.Upload my academic and personal projects here.
-3.Getting consistent and disciplined with my technical skills, and improving them throughout the journey...
+- 1.Learn GITHUB.
+- 2.Upload my academic and personal projects here.
+- 3.Getting consistent and disciplined with my technical skills, and improving them throughout the journey...
